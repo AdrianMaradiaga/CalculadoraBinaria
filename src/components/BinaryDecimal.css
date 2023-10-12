@@ -1,0 +1,25 @@
+.binaryDecimal {
+  background-color: #353535;
+  padding: 24px;
+  border-radius: 6px;
+}
+
+.inputBinaryDecimal {
+  padding: 8px;
+  background-color: #eee;
+  border-radius: 4px;
+  border: none;
+}
+
+.convertBinaryDecimal {
+  padding: 8px;
+  background-color: #88d486;
+  border: none;
+  margin: 12px;
+  border-radius: 4px;
+}
+
+.convertBinaryDecimal:hover {
+  background-color: #7cc279;
+  cursor: pointer;
+}
