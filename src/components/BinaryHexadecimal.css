@@ -1,0 +1,26 @@
+.binaryHexadecimal {
+    background-color: #353535;
+    padding: 24px;
+    border-radius: 6px;
+  }
+  
+  .inputBinaryHexadecimal {
+    padding: 8px;
+    background-color: #eee;
+    border-radius: 4px;
+    border: none;
+  }
+  
+  .convertBinaryHexadecimal {
+    padding: 8px;
+    background-color: #88d486;
+    border: none;
+    margin: 12px;
+    border-radius: 4px;
+  }
+  
+  .convertBinaryHexadecimal:hover {
+    background-color: #7cc279;
+    cursor: pointer;
+  }
+  
